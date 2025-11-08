@@ -1,3 +1,3 @@
-# Predict used vehicle price using DSM
+# Predict Used Vehicle Price Using DSM
 
 This machine learning project tackles the challenge of predicting used car prices. It uses a dataset scraped from Craigslist and Carvana in 2021, available on [Kaggle](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data). A significant portion of this work focused on feature engineering to prepare the raw data for modeling. I leveraged four different machine learning algorithms, including K-Nearest Neighbors (KNN) and Random Forest Regression, using 5-fold cross-validation to predict the vehicle price. The top-performing model achieved an impressive average error rate of 1.5%. For a detailed discussion of the analysis and results, please refer to the "CapstoneII_FinalReport_CLUsedCarDataset.pdf" report.
